@@ -1,0 +1,2 @@
+# passFunctionAsProps
+Created with CodeSandbox
