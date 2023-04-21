@@ -1,2 +1,2 @@
 # passFunctionAsProps
-Created with CodeSandbox
+Created with CodeSandbox20
